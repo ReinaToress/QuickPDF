@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">QuickPDF icon</title>
+  <desc id="desc">A simple document icon with the letters PDF.</desc>
+  <rect width="128" height="128" fill="#f7f3eb"/>
+  <path d="M34 18h42l24 24v68H34z" fill="#fffcf4" stroke="#191714" stroke-width="6"/>
+  <path d="M76 18v28h24" fill="none" stroke="#191714" stroke-width="6"/>
+  <rect x="24" y="66" width="80" height="34" fill="#0f7b68"/>
+  <text x="64" y="89" text-anchor="middle" font-family="Verdana, sans-serif" font-size="20" font-weight="700" fill="#fffaf0">PDF</text>
+</svg>
