@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/quickpdf%20logo.png" alt="QuickPDF logo" width="120" />
+</p>
+
 # QuickPDF
 
 Small, lightweight PDF utilities for everyday tasks.
